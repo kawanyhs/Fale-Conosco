@@ -1,7 +1,7 @@
 ## Projeto Fale Conosco
 
 ## Descrição
-Durante uma atividade em sala de aula criamos um site do sesi
+Durante uma atividade em sala de aula criamos uma programação em que mostrava a página inicial do site do SESI
 
 ## Trabalho em grupo 
 
