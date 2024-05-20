@@ -15,3 +15,5 @@ Sanmara Estefane
 Shamara Karolina
 
 ## Tecnologias utilizadas
+
+utilizamos o HTML
