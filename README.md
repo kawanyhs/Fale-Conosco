@@ -5,13 +5,13 @@ Durante uma atividade em sala de aula criamos uma programação em que mostrava 
 
 ## Trabalho em grupo 
 
-Caua Vital
-Gislaine Souza
-Heliana Beatriz
-Kawany Helen 
-Lais Vitoria
-Maria Isabel
-Sanmara Estefane
+Caua Vital,
+Gislaine Souza,
+Heliana Beatriz,
+Kawany Helen,
+Lais Vitoria,
+Maria Isabel,
+Sanmara Estefane e
 Shamara Karolina
 
 ## Tecnologias utilizadas
